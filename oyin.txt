@@ -1,0 +1,5 @@
+This is code base to reduce the amount of money a house spent in a day.\
+
+# Adding code for women benefit
+
+Code Added!
